@@ -1,2 +1,2 @@
 # github-training
- Repository for demo purposes on Devlab@Duke Github Training
+ Repository for demo purposes for Devlab@Duke Github Training
